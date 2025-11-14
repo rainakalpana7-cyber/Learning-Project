@@ -1,2 +1,3 @@
-This is my dummy Git project.
+This is my learning Project.
 Its for Learning and Practice.
+My name is Kalpana Raina.

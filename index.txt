@@ -1,0 +1,2 @@
+This is my dummy Git project.
+Its for Learning and Practice.

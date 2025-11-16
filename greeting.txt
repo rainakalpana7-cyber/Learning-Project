@@ -1,0 +1,2 @@
+Hello from feature/greeting!
+This file was added in the feature/greeting branch.
